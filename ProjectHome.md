@@ -1,0 +1,1 @@
+This is a seed swapping app that will allow hobbyists and farmers to sell and trade seeds.
